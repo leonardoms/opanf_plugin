@@ -56,9 +56,12 @@
 	  - [ ] Atividades de Guerrilheiros
 	  - [ ] Atos de Terrorismo
 	  - [ ] Atos de Sabotagem
-	  - [ ] Patrulhas
+	  - [ ] Patrulhas (amigo)
+	  - [ ] Patrulhas (inimigo)
+	  - [ ] Patrulha / Elemento de Cavalaria Mecanizada
+	  - [ ] Posto de 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzgwOTYxODUsMTc4MjU1Mjg1LC0xNT
+eyJoaXN0b3J5IjpbLTEwNDg2NDI3NTYsMTc4MjU1Mjg1LC0xNT
 I5NDAxNzI0LC00NTYxMTA3MTRdfQ==
 -->
