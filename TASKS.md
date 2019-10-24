@@ -58,27 +58,27 @@
 	 - [ ] #700 - Objetivos
 	 - [ ] #701 - Eixo de Progressão (EProg)
 	 - [ ] #702 - Direção de Ataque
-	 - [ ] Direção de Lançamento de Ataque Aeromóvel
-	 - [ ] Estrada Principal de Suprimento
-	 - [ ] Direção do Ataque Principal
-	 - [ ] Base de Fogos
-  - [ ] **Pontos**
-	 - [ ] Ponto de Coordenação ("Roda de Carroça")
-	 - [ ] Ponto de Coordenação (genérico)
-	 - [ ] Ponto de Controle
-	 - [ ] Ponto de Ligação (PLig)
-	 - [ ] Ponto de Junção
-  - [ ] **Outros** (ref.: MD-33 6.4.1.h)
-	  - [ ] Atividades de Guerrilheiros
-	  - [ ] Atos de Terrorismo
-	  - [ ] Atos de Sabotagem
-	  - [ ] Patrulhas (amigo)
-	  - [ ] Patrulhas (inimigo)
-	  - [ ] Patrulha / Elemento de Cavalaria Mecanizada
-	  - [ ] Posto de Vigilância (inimigo)
+	 - [ ] #703 - Direção de Lançamento de Ataque Aeromóvel
+	 - [ ] #704 - Estrada Principal de Suprimento
+	 - [ ] #705 - Direção do Ataque Principal
+	 - [ ] #706 - Base de Fogos
+  - [ ] #80 - **Pontos**
+	 - [ ] #800 - Ponto de Coordenação ("Roda de Carroça")
+	 - [ ] #801 - Ponto de Coordenação (genérico)
+	 - [ ] #802 - Ponto de Controle
+	 - [ ] #803 - Ponto de Ligação (PLig)
+	 - [ ] #804 - Ponto de Junção
+  - [ ] #90 - **Outros** (ref.: MD-33 6.4.1.h)
+	  - [ ] #900 - Atividades de Guerrilheiros
+	  - [ ] #901 - Atos de Terrorismo
+	  - [ ] #902 - Atos de Sabotagem
+	  - [ ] #903 - Patrulhas (amigo)
+	  - [ ] #904 - Patrulhas (inimigo)
+	  - [ ] #905 - Patrulha / Elemento de Cavalaria Mecanizada
+	  - [ ] #906 - Posto de Vigilância (inimigo)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4NjQzNzM0MiwyMDU0NTYyODkzLDE0NT
-EzNjMzMzUsMTc4MjU1Mjg1LC0xNTI5NDAxNzI0LC00NTYxMTA3
-MTRdfQ==
+eyJoaXN0b3J5IjpbOTMzNzcyNTIxLDIwNTQ1NjI4OTMsMTQ1MT
+M2MzMzNSwxNzgyNTUyODUsLTE1Mjk0MDE3MjQsLTQ1NjExMDcx
+NF19
 -->
