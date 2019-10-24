@@ -30,8 +30,12 @@
      - [ ] Base de Patrulha
      - [ ] Base de Combate
      - [ ] Área de Apoio Logístico (AApLog)
+     - [ ] Zona de Desembarque (ZDbq)
 - [ ] *Grupo 4- Polígono | Texto no Centro*
      - [ ] Área Interditada
+- [ ] *Grupo 5 - Outros*
+	- [ ] Saída de Praia VtrSR
+	- [ ] Saída de 
  - [ ] **Medidas de Coordenação de Apoio de Fogo** (ref.: MD-33 6.4.1.c)
 	 - [ ] Medidas Permissíveis
 		 - [x] Linha de Segurança de Apoio de Artilharia (LSAA)
@@ -44,6 +48,6 @@
 	 - [ ] Núcleo Defensívo
 	 - [ ] PBloq
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ1OTMzODE3LC0xNTI5NDAxNzI0LC00NT
-YxMTA3MTRdfQ==
+eyJoaXN0b3J5IjpbLTIxMDI3NDI2NzEsLTE1Mjk0MDE3MjQsLT
+Q1NjExMDcxNF19
 -->
