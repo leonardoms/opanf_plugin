@@ -13,7 +13,9 @@
      - [x] Linha de Cabeça de Praia (LCP)
      - [x] Linha de Cabeça de Praia de Força (LCPF)
      - [ ] Linha de Reconhecimento e Segurança (LRS)
-     - [ ] Área de Apoio de Praia (A
+     - [ ] Área de Apoio de Praia (AApP)
+     - [ ] Equipe de Destacamento de Praia (EqDP)
+     - [ ] Grupo de Destacamento de Praia (GpDP)
    - [ ] *Grupo 2 - Linha | Texto nas Pontas*
 	  - [ ] Linha de Partida (LP)
 	  - [ ] Linha de Contato (LC)
@@ -42,6 +44,6 @@
 	 - [ ] Núcleo Defensívo
 	 - [ ] PBloq
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwOTI0NzMyMCwtMTUyOTQwMTcyNCwtND
-U2MTEwNzE0XX0=
+eyJoaXN0b3J5IjpbODQ1OTMzODE3LC0xNTI5NDAxNzI0LC00NT
+YxMTA3MTRdfQ==
 -->
