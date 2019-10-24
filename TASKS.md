@@ -12,6 +12,10 @@
      - [ ] Linha de Cabeça-de-Ponte Aérea
      - [x] Linha de Cabeça de Praia (LCP)
      - [x] Linha de Cabeça de Praia de Força (LCPF)
+     - [ ] Linha de Reconhecimento e Segurança (LRS)
+     - [ ] Local de Reorganização
+     - [ ] Área Operacional de Guerra Irregular (AOGI)
+     - [ ] Área Interditada
    - [ ] *Grupo 2 - Linha | Texto nas Pontas*
 	  - [ ] Linha de Partida (LP)
 	  - [ ] Linha de Contato (LC)
@@ -33,6 +37,6 @@
 	 - [ ] Núcleo Defensívo
 	 - [ ] PBloq
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM0ODM2NzI3LC0xNTI5NDAxNzI0LC00NT
-YxMTA3MTRdfQ==
+eyJoaXN0b3J5IjpbMTM5MzgxNjcyMSwtMTUyOTQwMTcyNCwtND
+U2MTEwNzE0XX0=
 -->
