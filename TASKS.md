@@ -58,6 +58,7 @@
 	 - [ ] Direção de Ataque
 	 - [ ] Direção de Lançamento de Ataque Aeromóvel
 	 - [ ] Estrada Principal de Suprimento
+	 - [ ] Direção do Ataque Principal
   - [ ] **Outros** (ref.: MD-33 6.4.1.h)
 	  - [ ] Atividades de Guerrilheiros
 	  - [ ] Atos de Terrorismo
@@ -68,6 +69,6 @@
 	  - [ ] Posto de Vigilância (inimigo)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjA0MDk5NywxNzgyNTUyODUsLTE1Mj
-k0MDE3MjQsLTQ1NjExMDcxNF19
+eyJoaXN0b3J5IjpbMjc1NTM2MTg3LDE3ODI1NTI4NSwtMTUyOT
+QwMTcyNCwtNDU2MTEwNzE0XX0=
 -->
