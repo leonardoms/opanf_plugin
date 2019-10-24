@@ -52,6 +52,7 @@
  - [ ] **Núcleos de Defesa** (ref.: MD-33 6.4.1.f)
 	 - [ ] Núcleo Defensívo
 	 - [ ] PBloq
+ - [ ] **Núcleos de Defesa** (ref.: MD-33 6.4.1.f)
   - [ ] **Outros** (ref.: MD-33 6.4.1.h)
 	  - [ ] Atividades de Guerrilheiros
 	  - [ ] Atos de Terrorismo
@@ -62,6 +63,6 @@
 	  - [ ] Posto de Vigilância (inimigo)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjgwMTM3MzcxLDE3ODI1NTI4NSwtMTUyOT
-QwMTcyNCwtNDU2MTEwNzE0XX0=
+eyJoaXN0b3J5IjpbLTUxNzAyNDQ4MiwxNzgyNTUyODUsLTE1Mj
+k0MDE3MjQsLTQ1NjExMDcxNF19
 -->
