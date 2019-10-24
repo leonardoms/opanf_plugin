@@ -1,4 +1,4 @@
- - [ ] #100 - **Representação de Forças** 
+ - [ ] #10 - **Representação de Forças** 
 	 - [ ] #101 - Forças Amigas (ref.: MD-33 6.2)
 	 - [ ] #102 - Fornças Amigas (haste)
 	 - [ ] #103 - Forças Inimigas (ref.: MD-33 6.3)
@@ -6,8 +6,8 @@
  - [ ] #200 - **Limites Entre Dois Elementos** (ref.: MD-33 6.4.1.a)
 	 - [x] #201 - Limite Entre Escalões Iguais
 	 - [x] #202 - Limite Entre Escalões Diferentes
- - [ ] #300 - **Limites de Áreas de Atividades/Responsabilidades** (ref.: MD-33 6.4.1.b)
-   - [ ] *Grupo 1 - Linha | Texto ao Centro*
+ - [ ] #30 - **Limites de Áreas de Atividades/Responsabilidades** (ref.: MD-33 6.4.1.b)
+   - [ ] #31 - *Grupo 1 - Linha | Texto ao Centro*
      - [ ] #310 - Limite Posterior de Teatro de Operações
      - [ ] #311 - Linha de Escurecimento Total (LET)
      - [ ] #312 - Linha de Escurecimento Parcial (LEP)
@@ -18,14 +18,14 @@
      - [ ] #317 - Área de Apoio de Praia (AApP)
      - [ ] #318 - Equipe de Destacamento de Praia (EqDP)
      - [ ] #319 - Grupo de Destacamento de Praia (GpDP)
-   - [ ] *Grupo 2 - Linha | Texto nas Pontas*
+   - [ ] #32 - *Grupo 2 - Linha | Texto nas Pontas*
 	  - [ ] #320 - Linha de Partida (LP)
 	  - [ ] #321 - Linha de Contato (LC)
 	  - [ ] #322 - LP/LC	
       - [ ] #323 - Limite Avançado de Trabalho (LAT)
       - [ ] #324 - Limite Avançado das Posições Amigas (LAPA)
       - [x] #325 - Linha de Controle (LCt)
-  - [ ] *Grupo 3 - Polígono | Texto na Linha*
+  - [ ] #33 - *Grupo 3 - Polígono | Texto na Linha*
 	  - [ ] #330 - Linha de Cerco
      - [ ] #331 - Local de Reorganização
      - [ ] #332 - Área Operacional de Guerra Irregular (AOGI)
@@ -33,19 +33,19 @@
      - [ ] #334 - Base de Combate
      - [ ] #335 - Área de Apoio Logístico (AApLog)
      - [ ] #336 - Zona de Desembarque (ZDbq)
-- [ ] *Grupo 4- Polígono | Texto no Centro*
+- [ ] #34 - *Grupo 4- Polígono | Texto no Centro*
      - [ ] #340 - Área Interditada
-- [ ] *Grupo 5 - Outros*
+- [ ] #35 - *Grupo 5 - Outros*
 	- [ ] #350 - Saída de Praia VtrSR
 	- [ ] #351 - Saída de Praia VtrSL
 	- [ ] #352 - Praia de Desembarque (PDbq)
- - [ ] #400 - **Medidas de Coordenação de Apoio de Fogo** (ref.: MD-33 6.4.1.c)
-	 - [ ] Medidas Permissíveis
-		 - [x] Linha de Segurança de Apoio de Artilharia (LSAA)
-		 - [ ] Linha de Coordenação de Apoio de Fogo (LCAF)
-		 - [ ] Área de Fogo Livre (AFL) 
-	 - [ ] Medidas Restritivas
-		 - [ ] Linha de Coordenação de Fogos
+ - [ ] #40 - **Medidas de Coordenação de Apoio de Fogo** (ref.: MD-33 6.4.1.c)
+	 - [ ] #41 - Medidas Permissíveis
+		 - [x] #410 - Linha de Segurança de Apoio de Artilharia (LSAA)
+		 - [ ] #411 - Linha de Coordenação de Apoio de Fogo (LCAF)
+		 - [ ] #412 - Área de Fogo Livre (AFL) 
+	 - [ ] $42 - Medidas Restritivas
+		 - [ ] #420 - Linha de Coordenação de Fogos
 		 - [ ] Área de Coordenação de Fogos
 		 - [ ] Área de Fogo Proibido (AFP)
  - [ ] **Zonas de Reunião** (ref.: MD-33 6.4.1.e)
@@ -78,7 +78,7 @@
 	  - [ ] Posto de Vigilância (inimigo)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0MzExODQ4NCwyMDU0NTYyODkzLDE0NT
+eyJoaXN0b3J5IjpbMTE0NjE0Njc5NCwyMDU0NTYyODkzLDE0NT
 EzNjMzMzUsMTc4MjU1Mjg1LC0xNTI5NDAxNzI0LC00NTYxMTA3
 MTRdfQ==
 -->
