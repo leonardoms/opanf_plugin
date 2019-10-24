@@ -60,7 +60,7 @@
 	 - [ ] Estrada Principal de Suprimento
 	 - [ ] Direção do Ataque Principal
 	 - [ ] Base de Fogos
-  - [ ] ** Pontos**
+  - [ ] **Pontos**
 	 - [ ] Ponto de Coordenação ("Roda de Carroça")
 	 - [ ] Ponto de Coordenação (genérico)
 	 - [ ] Ponto de Controle
@@ -76,6 +76,6 @@
 	  - [ ] Posto de Vigilância (inimigo)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1MTM2MzMzNSwxNzgyNTUyODUsLTE1Mj
-k0MDE3MjQsLTQ1NjExMDcxNF19
+eyJoaXN0b3J5IjpbMTE3NTg1NzM5NywxNDUxMzYzMzM1LDE3OD
+I1NTI4NSwtMTUyOTQwMTcyNCwtNDU2MTEwNzE0XX0=
 -->
