@@ -1,11 +1,13 @@
  - [ ] #100 - **Representação de Forças** 
 	 - [ ] #101 - Forças Amigas (ref.: MD-33 6.2)
-	 - [ ] #10Forças Inimigas (ref.: MD-33 6.3)
- - [ ] **Limites Entre Dois Elementos** (ref.: MD-33 6.4.1.a)
-	 - [x] Limite Entre Escalões Iguais
-	 - [x] Limite Entre Escalões Diferentes
- - [ ] **Limites de Áreas de Atividades/Responsabilidades** (ref.: MD-33 6.4.1.b)
-   - [ ] *Grupo 1 - Linha | Texto ao Centro*
+	 - [ ] #102 - Fornças Amigas (haste)
+	 - [ ] #103 - Forças Inimigas (ref.: MD-33 6.3)
+	 - [ ] #104 - Forças Inimigas (haste)
+ - [ ] #200 - **Limites Entre Dois Elementos** (ref.: MD-33 6.4.1.a)
+	 - [x] #201 - Limite Entre Escalões Iguais
+	 - [x] #202 - Limite Entre Escalões Diferentes
+ - [ ] #300 - **Limites de Áreas de Atividades/Responsabilidades** (ref.: MD-33 6.4.1.b)
+   - [ ] #*Grupo 1 - Linha | Texto ao Centro*
      - [ ] Limite Posterior de Teatro de Operações
      - [ ] Linha de Escurecimento Total (LET)
      - [ ] Linha de Escurecimento Parcial (LEP)
@@ -76,6 +78,6 @@
 	  - [ ] Posto de Vigilância (inimigo)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4MTE4OTQ4MCwxNDUxMzYzMzM1LDE3OD
-I1NTI4NSwtMTUyOTQwMTcyNCwtNDU2MTEwNzE0XX0=
+eyJoaXN0b3J5IjpbNDI4Nzk2NDMyLDE0NTEzNjMzMzUsMTc4Mj
+U1Mjg1LC0xNTI5NDAxNzI0LC00NTYxMTA3MTRdfQ==
 -->
