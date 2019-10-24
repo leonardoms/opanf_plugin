@@ -45,13 +45,16 @@
 	 - [ ] Medidas Restritivas
 		 - [ ] Linha de Coordenação de Fogos
 		 - [ ] Área de Coordenação de Fogos
+		 - [ ] Área de Fogo Proibido (AFP)
  - [ ] **Zonas de Reunião** (ref.: MD-33 6.4.1.e)
 	 - [ ] Zona de Reunião com Área Ocupada (ZReu)
 	 - [ ] Zona de Reunião sem Área Ocupada
  - [ ] **Núcleos de Defesa** (ref.: MD-33 6.4.1.e)
 	 - [ ] Núcleo Defensívo
 	 - [ ] PBloq
+  - [ ] **Outros** (ref.: MD-33 6.4.1.e)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODUwMDQwMjgsLTE1Mjk0MDE3MjQsLT
-Q1NjExMDcxNF19
+eyJoaXN0b3J5IjpbMTc4MjU1Mjg1LC0xNTI5NDAxNzI0LC00NT
+YxMTA3MTRdfQ==
 -->
