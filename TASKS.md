@@ -1,3 +1,6 @@
+ - [ ] **Representação de Forças** 
+	 - [x] Limite Entre Escalões Iguais (ref.: MD-33 6.4.1.a)
+	 - [x] Limite Entre Escalões Diferentes
  - [ ] **Limites Entre Dois Elementos** (ref.: MD-33 6.4.1.a)
 	 - [x] Limite Entre Escalões Iguais
 	 - [x] Limite Entre Escalões Diferentes
@@ -30,5 +33,5 @@
 	 - [ ] Núcleo Defensívo
 	 - [ ] PBloq
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1NjExMDcxNF19
+eyJoaXN0b3J5IjpbLTEwMjAyMjA0ODUsLTQ1NjExMDcxNF19
 -->
