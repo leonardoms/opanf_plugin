@@ -1,0 +1,34 @@
+ - [ ] **Limites Entre Dois Elementos** (ref.: MD-33 6.4.1.a)
+	 - [x] Limite Entre Escalões Iguais
+	 - [x] Limite Entre Escalões Diferentes
+ - [ ] **Limites de Áreas de Atividades/Responsabilidades** (ref.: MD-33 6.4.1.b)
+   - [ ] *Grupo 1 - Linha | Texto ao Centro*
+     - [ ] Limite Posterior de Teatro de Operações
+     - [ ] Linha de Escurecimento Total (LET)
+     - [ ] Linha de Escurecimento Parcial (LEP)
+     - [ ] Linha de Cabeça-de-Ponte Aérea
+     - [x] Linha de Cabeça de Praia (LCP)
+     - [x] Linha de Cabeça de Praia de Força (LCPF)
+   - [ ] *Grupo 2 - Linha | Texto nas Pontas*
+	  - [ ] Linha de Partida (LP)
+	  - [ ] Linha de Contato (LC)
+	  - [ ] LP/LC	
+      - [ ] Limite Avançado de Trabalho (LAT)
+      - [ ] Limite Avançado das Posições Amigas (LAPA)
+      - [x] Linha de Controle (LCt)
+  - [ ] *Grupo 3 - Polígono | Texto na Linha*
+	  - [ ] 
+ - [ ] **Medidas de Coordenação de Apoio de Fogo** (ref.: MD-33 6.4.1.c)
+	 - [ ] Medidas Permissíveis
+		 - [x] Linha de Segurança de Apoio de Artilharia (LSAA)
+	 - [ ] Medidas Restritivas
+		 - [ ] Linha de Coordenação de Fogos
+ - [ ] **Zonas de Reunião** (ref.: MD-33 6.4.1.e)
+	 - [ ] Zona de Reunião com Área Ocupada (ZReu)
+	 - [ ] Zona de Reunião sem Área Ocupada
+ - [ ] **Núcleos de Defesa** (ref.: MD-33 6.4.1.e)
+	 - [ ] Núcleo Defensívo
+	 - [ ] PBloq
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTQ1NjExMDcxNF19
+-->
