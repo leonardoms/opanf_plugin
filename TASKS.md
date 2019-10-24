@@ -61,9 +61,11 @@
 	 - [ ] Direção do Ataque Principal
 	 - [ ] Base de Fogos
   - [ ] ** Pontos**
-	 - [ ] Ponto de Coordenação
+	 - [ ] Ponto de Coordenação ("Roda de Carroça")
+	 - [ ] Ponto de Coordenação (genérico)
 	 - [ ] Ponto de Controle
-	 - [ ] Ponto de Ligação 
+	 - [ ] Ponto de Ligação (PLig)
+	 - [ ] Ponto de Junção
   - [ ] **Outros** (ref.: MD-33 6.4.1.h)
 	  - [ ] Atividades de Guerrilheiros
 	  - [ ] Atos de Terrorismo
@@ -74,6 +76,6 @@
 	  - [ ] Posto de Vigilância (inimigo)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxNjE5MzUwNiwxNzgyNTUyODUsLTE1Mj
+eyJoaXN0b3J5IjpbMTQ1MTM2MzMzNSwxNzgyNTUyODUsLTE1Mj
 k0MDE3MjQsLTQ1NjExMDcxNF19
 -->
