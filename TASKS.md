@@ -13,9 +13,6 @@
      - [x] Linha de Cabeça de Praia (LCP)
      - [x] Linha de Cabeça de Praia de Força (LCPF)
      - [ ] Linha de Reconhecimento e Segurança (LRS)
-     - [ ] Local de Reorganização
-     - [ ] Área Operacional de Guerra Irregular (AOGI)
-     - [ ] Área Interditada
    - [ ] *Grupo 2 - Linha | Texto nas Pontas*
 	  - [ ] Linha de Partida (LP)
 	  - [ ] Linha de Contato (LC)
@@ -25,6 +22,11 @@
       - [x] Linha de Controle (LCt)
   - [ ] *Grupo 3 - Polígono | Texto na Linha*
 	  - [ ] Linha de Cerco
+     - [ ] Local de Reorganização
+     - [ ] Área Operacional de Guerra Irregular (AOGI)
+     - [ ] Base de Patr
+- [ ] *Grupo 4- Polígono | Texto no Centro*
+     - [ ] Área Interditada
  - [ ] **Medidas de Coordenação de Apoio de Fogo** (ref.: MD-33 6.4.1.c)
 	 - [ ] Medidas Permissíveis
 		 - [x] Linha de Segurança de Apoio de Artilharia (LSAA)
@@ -37,6 +39,6 @@
 	 - [ ] Núcleo Defensívo
 	 - [ ] PBloq
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5MzgxNjcyMSwtMTUyOTQwMTcyNCwtND
-U2MTEwNzE0XX0=
+eyJoaXN0b3J5IjpbLTEyNDcyNTc2NzMsLTE1Mjk0MDE3MjQsLT
+Q1NjExMDcxNF19
 -->
