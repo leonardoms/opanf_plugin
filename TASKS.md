@@ -26,20 +26,20 @@
       - [ ] #324 - Limite Avançado das Posições Amigas (LAPA)
       - [x] #325 - Linha de Controle (LCt)
   - [ ] *Grupo 3 - Polígono | Texto na Linha*
-	  - [ ] Linha de Cerco
-     - [ ] Local de Reorganização
-     - [ ] Área Operacional de Guerra Irregular (AOGI)
-     - [ ] Base de Patrulha
-     - [ ] Base de Combate
-     - [ ] Área de Apoio Logístico (AApLog)
-     - [ ] Zona de Desembarque (ZDbq)
+	  - [ ] #330 - Linha de Cerco
+     - [ ] #331 - Local de Reorganização
+     - [ ] #332 - Área Operacional de Guerra Irregular (AOGI)
+     - [ ] #333 - Base de Patrulha
+     - [ ] #334 - Base de Combate
+     - [ ] #335 - Área de Apoio Logístico (AApLog)
+     - [ ] #336 - Zona de Desembarque (ZDbq)
 - [ ] *Grupo 4- Polígono | Texto no Centro*
-     - [ ] Área Interditada
+     - [ ] #340 - Área Interditada
 - [ ] *Grupo 5 - Outros*
-	- [ ] Saída de Praia VtrSR
-	- [ ] Saída de Praia VtrSL
-	- [ ] Praia de Desembarque (PDbq)
- - [ ] **Medidas de Coordenação de Apoio de Fogo** (ref.: MD-33 6.4.1.c)
+	- [ ] #350 - Saída de Praia VtrSR
+	- [ ] #351 - Saída de Praia VtrSL
+	- [ ] #352 - Praia de Desembarque (PDbq)
+ - [ ] #400 - **Medidas de Coordenação de Apoio de Fogo** (ref.: MD-33 6.4.1.c)
 	 - [ ] Medidas Permissíveis
 		 - [x] Linha de Segurança de Apoio de Artilharia (LSAA)
 		 - [ ] Linha de Coordenação de Apoio de Fogo (LCAF)
@@ -78,6 +78,7 @@
 	  - [ ] Posto de Vigilância (inimigo)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1NDU2Mjg5MywxNDUxMzYzMzM1LDE3OD
-I1NTI4NSwtMTUyOTQwMTcyNCwtNDU2MTEwNzE0XX0=
+eyJoaXN0b3J5IjpbLTI0MzExODQ4NCwyMDU0NTYyODkzLDE0NT
+EzNjMzMzUsMTc4MjU1Mjg1LC0xNTI5NDAxNzI0LC00NTYxMTA3
+MTRdfQ==
 -->
