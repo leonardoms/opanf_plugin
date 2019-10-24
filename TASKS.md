@@ -35,10 +35,13 @@
      - [ ] Área Interditada
 - [ ] *Grupo 5 - Outros*
 	- [ ] Saída de Praia VtrSR
-	- [ ] Saída de 
+	- [ ] Saída de Praia VtrSL
+	- [ ] Praia de Desembarque (PDbq)
  - [ ] **Medidas de Coordenação de Apoio de Fogo** (ref.: MD-33 6.4.1.c)
 	 - [ ] Medidas Permissíveis
 		 - [x] Linha de Segurança de Apoio de Artilharia (LSAA)
+		 - [ ] Linha de Coordenação de Apoio de Fogo (LCAF)
+		 - [ ]  
 	 - [ ] Medidas Restritivas
 		 - [ ] Linha de Coordenação de Fogos
  - [ ] **Zonas de Reunião** (ref.: MD-33 6.4.1.e)
@@ -48,6 +51,6 @@
 	 - [ ] Núcleo Defensívo
 	 - [ ] PBloq
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDI3NDI2NzEsLTE1Mjk0MDE3MjQsLT
-Q1NjExMDcxNF19
+eyJoaXN0b3J5IjpbLTIzODczMzAxOSwtMTUyOTQwMTcyNCwtND
+U2MTEwNzE0XX0=
 -->
