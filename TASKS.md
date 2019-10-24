@@ -20,7 +20,7 @@
       - [ ] Limite Avançado das Posições Amigas (LAPA)
       - [x] Linha de Controle (LCt)
   - [ ] *Grupo 3 - Polígono | Texto na Linha*
-	  - [ ] 
+	  - [ ] Linha de Cerco
  - [ ] **Medidas de Coordenação de Apoio de Fogo** (ref.: MD-33 6.4.1.c)
 	 - [ ] Medidas Permissíveis
 		 - [x] Linha de Segurança de Apoio de Artilharia (LSAA)
@@ -33,5 +33,6 @@
 	 - [ ] Núcleo Defensívo
 	 - [ ] PBloq
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Mjk0MDE3MjQsLTQ1NjExMDcxNF19
+eyJoaXN0b3J5IjpbOTM0ODM2NzI3LC0xNTI5NDAxNzI0LC00NT
+YxMTA3MTRdfQ==
 -->
