@@ -41,9 +41,10 @@
 	 - [ ] Medidas Permissíveis
 		 - [x] Linha de Segurança de Apoio de Artilharia (LSAA)
 		 - [ ] Linha de Coordenação de Apoio de Fogo (LCAF)
-		 - [ ]  
+		 - [ ] Área de Fogo Livre (AFL) 
 	 - [ ] Medidas Restritivas
 		 - [ ] Linha de Coordenação de Fogos
+		 - [ ] Área de Coordenação de Fogos
  - [ ] **Zonas de Reunião** (ref.: MD-33 6.4.1.e)
 	 - [ ] Zona de Reunião com Área Ocupada (ZReu)
 	 - [ ] Zona de Reunião sem Área Ocupada
@@ -51,6 +52,6 @@
 	 - [ ] Núcleo Defensívo
 	 - [ ] PBloq
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzODczMzAxOSwtMTUyOTQwMTcyNCwtND
-U2MTEwNzE0XX0=
+eyJoaXN0b3J5IjpbLTEwODUwMDQwMjgsLTE1Mjk0MDE3MjQsLT
+Q1NjExMDcxNF19
 -->
