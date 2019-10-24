@@ -49,12 +49,16 @@
  - [ ] **Zonas de Reunião** (ref.: MD-33 6.4.1.e)
 	 - [ ] Zona de Reunião com Área Ocupada (ZReu)
 	 - [ ] Zona de Reunião sem Área Ocupada
- - [ ] **Núcleos de Defesa** (ref.: MD-33 6.4.1.e)
+ - [ ] **Núcleos de Defesa** (ref.: MD-33 6.4.1.f)
 	 - [ ] Núcleo Defensívo
 	 - [ ] PBloq
-  - [ ] **Outros** (ref.: MD-33 6.4.1.e)
+  - [ ] **Outros** (ref.: MD-33 6.4.1.h)
+	  - [ ] Atividades de Guerrilheiros
+	  - [ ] Atos de Terrorismo
+	  - [ ] Atos de Sabotagem
+	  - [ ] Patrulhas
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4MjU1Mjg1LC0xNTI5NDAxNzI0LC00NT
-YxMTA3MTRdfQ==
+eyJoaXN0b3J5IjpbLTExMzgwOTYxODUsMTc4MjU1Mjg1LC0xNT
+I5NDAxNzI0LC00NTYxMTA3MTRdfQ==
 -->
