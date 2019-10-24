@@ -55,9 +55,9 @@
 	 - [ ] #600 - Núcleo Defensívo
 	 - [ ] #601 - PBloq
  - [ ] #70 - **Objetivo / Movimentos** (ref.: MD-33 6.4.1.k)
-	 - [ ] Objetivos
-	 - [ ] Eixo de Progressão (EProg)
-	 - [ ] Direção de Ataque
+	 - [ ] #700 - Objetivos
+	 - [ ] #701 - Eixo de Progressão (EProg)
+	 - [ ] #702 - Direção de Ataque
 	 - [ ] Direção de Lançamento de Ataque Aeromóvel
 	 - [ ] Estrada Principal de Suprimento
 	 - [ ] Direção do Ataque Principal
@@ -78,7 +78,7 @@
 	  - [ ] Posto de Vigilância (inimigo)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwNDY0MzQyMiwyMDU0NTYyODkzLDE0NT
+eyJoaXN0b3J5IjpbMTg4NjQzNzM0MiwyMDU0NTYyODkzLDE0NT
 EzNjMzMzUsMTc4MjU1Mjg1LC0xNTI5NDAxNzI0LC00NTYxMTA3
 MTRdfQ==
 -->
