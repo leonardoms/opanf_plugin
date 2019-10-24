@@ -7,24 +7,24 @@
 	 - [x] #201 - Limite Entre Escalões Iguais
 	 - [x] #202 - Limite Entre Escalões Diferentes
  - [ ] #300 - **Limites de Áreas de Atividades/Responsabilidades** (ref.: MD-33 6.4.1.b)
-   - [ ] #*Grupo 1 - Linha | Texto ao Centro*
-     - [ ] Limite Posterior de Teatro de Operações
-     - [ ] Linha de Escurecimento Total (LET)
-     - [ ] Linha de Escurecimento Parcial (LEP)
-     - [ ] Linha de Cabeça-de-Ponte Aérea
-     - [x] Linha de Cabeça de Praia (LCP)
-     - [x] Linha de Cabeça de Praia de Força (LCPF)
-     - [ ] Linha de Reconhecimento e Segurança (LRS)
-     - [ ] Área de Apoio de Praia (AApP)
-     - [ ] Equipe de Destacamento de Praia (EqDP)
-     - [ ] Grupo de Destacamento de Praia (GpDP)
+   - [ ] *Grupo 1 - Linha | Texto ao Centro*
+     - [ ] #310 - Limite Posterior de Teatro de Operações
+     - [ ] #311 - Linha de Escurecimento Total (LET)
+     - [ ] #312 - Linha de Escurecimento Parcial (LEP)
+     - [ ] #313 - Linha de Cabeça-de-Ponte Aérea
+     - [x] #314 - Linha de Cabeça de Praia (LCP)
+     - [x] #315 - Linha de Cabeça de Praia de Força (LCPF)
+     - [ ] #316 - Linha de Reconhecimento e Segurança (LRS)
+     - [ ] #317 - Área de Apoio de Praia (AApP)
+     - [ ] #318 - Equipe de Destacamento de Praia (EqDP)
+     - [ ] #319 - Grupo de Destacamento de Praia (GpDP)
    - [ ] *Grupo 2 - Linha | Texto nas Pontas*
-	  - [ ] Linha de Partida (LP)
-	  - [ ] Linha de Contato (LC)
-	  - [ ] LP/LC	
-      - [ ] Limite Avançado de Trabalho (LAT)
-      - [ ] Limite Avançado das Posições Amigas (LAPA)
-      - [x] Linha de Controle (LCt)
+	  - [ ] #320 - Linha de Partida (LP)
+	  - [ ] #321 - Linha de Contato (LC)
+	  - [ ] #322 - LP/LC	
+      - [ ] #323 - Limite Avançado de Trabalho (LAT)
+      - [ ] #324 - Limite Avançado das Posições Amigas (LAPA)
+      - [x] #325 - Linha de Controle (LCt)
   - [ ] *Grupo 3 - Polígono | Texto na Linha*
 	  - [ ] Linha de Cerco
      - [ ] Local de Reorganização
@@ -78,6 +78,6 @@
 	  - [ ] Posto de Vigilância (inimigo)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI4Nzk2NDMyLDE0NTEzNjMzMzUsMTc4Mj
-U1Mjg1LC0xNTI5NDAxNzI0LC00NTYxMTA3MTRdfQ==
+eyJoaXN0b3J5IjpbMjA1NDU2Mjg5MywxNDUxMzYzMzM1LDE3OD
+I1NTI4NSwtMTUyOTQwMTcyNCwtNDU2MTEwNzE0XX0=
 -->
