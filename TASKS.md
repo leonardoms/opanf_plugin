@@ -59,9 +59,9 @@
 	  - [ ] Patrulhas (amigo)
 	  - [ ] Patrulhas (inimigo)
 	  - [ ] Patrulha / Elemento de Cavalaria Mecanizada
-	  - [ ] Posto de 
+	  - [ ] Posto de Vigilância (inimigo)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDg2NDI3NTYsMTc4MjU1Mjg1LC0xNT
-I5NDAxNzI0LC00NTYxMTA3MTRdfQ==
+eyJoaXN0b3J5IjpbMjgwMTM3MzcxLDE3ODI1NTI4NSwtMTUyOT
+QwMTcyNCwtNDU2MTEwNzE0XX0=
 -->
