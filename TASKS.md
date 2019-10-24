@@ -1,6 +1,6 @@
- - [ ] **Representação de Forças** 
-	 - [ ] Forças Amigas (ref.: MD-33 6.2)
-	 - [ ] Forças Inimigas (ref.: MD-33 6.3)
+ - [ ] #100 - **Representação de Forças** 
+	 - [ ] #101 - Forças Amigas (ref.: MD-33 6.2)
+	 - [ ] #10Forças Inimigas (ref.: MD-33 6.3)
  - [ ] **Limites Entre Dois Elementos** (ref.: MD-33 6.4.1.a)
 	 - [x] Limite Entre Escalões Iguais
 	 - [x] Limite Entre Escalões Diferentes
@@ -76,6 +76,6 @@
 	  - [ ] Posto de Vigilância (inimigo)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3NTg1NzM5NywxNDUxMzYzMzM1LDE3OD
+eyJoaXN0b3J5IjpbMTY4MTE4OTQ4MCwxNDUxMzYzMzM1LDE3OD
 I1NTI4NSwtMTUyOTQwMTcyNCwtNDU2MTEwNzE0XX0=
 -->
